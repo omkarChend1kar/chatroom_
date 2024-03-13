@@ -14,7 +14,7 @@ Now that client application is ready, let's setup server application
 
 - Setup for server application
   - Since you would be in client directory, you have to get to server directory to get started, thus run ```cd../server```
-  - Now run ``` npm install ``
+  - Now run ``` npm install ```
   - Run ``` npm start ```.
   - Now go to port 3000 or go to ``` http://localhost:3000/ ```
 
