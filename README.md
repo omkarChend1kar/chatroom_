@@ -20,3 +20,9 @@ Now that client application is ready, let's setup server application
 
 All setup!!, Now you must be able to see chat screen, open the same url in different windows for multiple clients.
 
+
+<img width="1674" alt="Screenshot 2024-03-13 at 3 53 12 PM" src="https://github.com/omkarChend1kar/chatroom_/assets/71365710/df4d1d4b-d303-4758-a46e-a09001af4a4a">
+
+
+
+
