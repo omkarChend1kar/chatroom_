@@ -10,3 +10,13 @@ Once code is available on your system follow below steps to get it up and runnin
   - Run ``` npm install ```
   - Run ``` npm run dev ```
 
+Now that client application is ready, let's setup server application
+
+- Setup for server application
+  - Since you would be in client directory, you have to get to server directory to get started, thus run ```cd../server```
+  - Now run ``` npm install ``
+  - Run ``` npm start ```.
+  - Now go to port 3000 or go to ``` http://localhost:3000/ ```
+
+All setup!!, Now you must be able to see chat screen, open the same url in different windows for multiple clients.
+
