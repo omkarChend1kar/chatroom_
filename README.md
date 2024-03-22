@@ -14,7 +14,7 @@ Once code is available on your system follow below steps to get it up and runnin
 - Setup for client application
   - After ensuring that you are in project directory, go to the directory client ```cd client```
   - Run ``` npm install ```
-  - Run ``` npm run dev ```
+  - Run ``` npm build dev ```
 
 Now that client application is ready, let's setup server application
 
